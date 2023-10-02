@@ -5,7 +5,6 @@ This summer school will create an impact on the society by strengthening the lin
 A notable highlight of the school was the presence of Dr. Qaisar Ahsan, the Director General of the AI Technology Center Islamabad, who graced the occasion as the chief guest speaker. 
 Complementing this distinguished lineup, Engr. Muhammad Usman from the Barcelona Supercomputing Center and expert speakers from Forbmax.AI and the New Zealand Center of Chiropractic shared their insights and knowledge.
 The summer school served as a pivotal platform to emphasize the significance of AI and engage in discussions concerning various supercomputing solutions aimed at addressing the challenges faced by AI.
-
    1. Introduction to High Performance Computing, and its impact on life. (Prof. Dr. Tassadaq Hussain Cheema) 
     • Past, Present and Future of Artificial Intelligence
     • Challenges of  BigData and AI, and Micro-electronics
