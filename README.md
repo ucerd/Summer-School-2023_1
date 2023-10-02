@@ -1,10 +1,13 @@
 # Summer-School-2023_1
+
 Summer School: Supercomputing for Artificial Intelligence and BigData Applications
 Namal University, Mianwali, successfully hosted Pakistan's 1st Summer School on "Supercomputing for AI and Big Data Applications." The event saw the enthusiastic participation of over 60 individuals from diverse backgrounds, including academia, industry, and research.
+
 This summer school will create an impact on the society by strengthening the linkages of academia and industry and by enhancing the industrial development and sustainable economic growth.
 A notable highlight of the school was the presence of Dr. Qaisar Ahsan, the Director General of the AI Technology Center Islamabad, who graced the occasion as the chief guest speaker. 
 Complementing this distinguished lineup, Engr. Muhammad Usman from the Barcelona Supercomputing Center and expert speakers from Forbmax.AI and the New Zealand Center of Chiropractic shared their insights and knowledge.
 The summer school served as a pivotal platform to emphasize the significance of AI and engage in discussions concerning various supercomputing solutions aimed at addressing the challenges faced by AI.
+
    1. Introduction to High Performance Computing, and its impact on life. (Prof. Dr. Tassadaq Hussain Cheema) 
     • Past, Present and Future of Artificial Intelligence
     • Challenges of  BigData and AI, and Micro-electronics
