@@ -1,6 +1,8 @@
 # Supercomputing for Artificial Intelligence and BigData Applications 2023
 
 Picutres of the event at https://ucerd.com/Supercomputing_Artificial_Intelligence_Workshop.php
+
+
 Summer School: Supercomputing for Artificial Intelligence and BigData Applications
 Namal University, Mianwali, successfully hosted Pakistan's 1st Summer School on "Supercomputing for AI and Big Data Applications." The event saw the enthusiastic participation of over 60 individuals from diverse backgrounds, including academia, industry, and research.
 
